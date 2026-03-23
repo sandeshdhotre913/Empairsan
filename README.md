@@ -10,13 +10,7 @@
 - Programming: Python, C  
 - Tools: VS Code, GitHub  
 - Currently Learning: Web Development (HTML, CSS, JavaScript)
-
----
-
-## 📫 Connect With Me
-- LinkedIn: Add your link here  
-- GitHub: Add your link here  
-
+  
 ---
 
 ⭐ Thanks for visiting my profile!
