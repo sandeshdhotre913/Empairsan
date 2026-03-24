@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Multy Worker
+# 👋 Hi, I'm Sandesh 
 
 💻 Engineering Student | Tech Enthusiast  
 ⚙️ Interested in coding, electronics, and aviation  
